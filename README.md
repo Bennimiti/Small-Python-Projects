@@ -1,2 +1,2 @@
 # Small-Python-Projects
-Here I post some little python projects to share with the world. Enjoy your stay :)
+In this branch, I post personality tests. Enjoy your stay :)
